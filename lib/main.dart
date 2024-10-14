@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:template_project/pages/detail_page.dart';
 import 'package:template_project/pages/home_page.dart';
 
 void main() {
@@ -19,8 +20,8 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/': (context) => HomePage(),
-        // '/detail': (context) => Detail(),
-        // '/tentang': (context) => Tentang(),
+        '/detail': (context) => DetailPage(),
+        // '/tentang': (context) => (),
       },
     );
   }

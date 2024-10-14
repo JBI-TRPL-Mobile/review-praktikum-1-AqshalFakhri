@@ -10,16 +10,10 @@ class HomePage extends StatelessWidget {
   gambar: 'https://tirtabuanamedia.co.id/wp-content/uploads/2020/10/Si-Utan-Kawan-Kawan-Dongeng-Hewan-Asli-Indonesia-1-1.jpg',
   ),
   buku(
-  judul: 'Si Utan & Kawan-Kawan Dongeng Hewan Asli Indonesia',
-  penulis: 'Okta Abriyanti',
-  deskripsi: 'Buku tentang si utan dan kawan-kawan',
-  gambar: 'https://tirtabuanamedia.co.id/wp-content/uploads/2020/10/Si-Utan-Kawan-Kawan-Dongeng-Hewan-Asli-Indonesia-1-1.jpg',
-  ),
-  buku(
-  judul: 'Si Utan & Kawan-Kawan Dongeng Hewan Asli Indonesia',
-  penulis: 'Okta Abriyanti',
-  deskripsi: 'Buku tentang si utan dan kawan-kawan',
-  gambar: 'https://tirtabuanamedia.co.id/wp-content/uploads/2020/10/Si-Utan-Kawan-Kawan-Dongeng-Hewan-Asli-Indonesia-1-1.jpg',
+  judul: 'Bukan Cinta Monyet',
+  penulis: 'Purnama Teduh',
+  deskripsi: 'Buku tentang cinta monyet',
+  gambar: 'https://tirtabuanamedia.co.id/wp-content/uploads/2020/10/Bukan-Cinta-Monyet-1.jpg',
   ),
   ];
   @override
